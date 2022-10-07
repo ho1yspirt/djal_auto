@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "947473130835",
+    "project_id": "djal-auto-be4ed",
+    "storage_bucket": "djal-auto-be4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947473130835:android:089c6c93888c906565eda6",
+        "android_client_info": {
+          "package_name": "com.ho1yspirt.djal_auto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947473130835-0ligmcqqjel60sodh8rm3d4jk8g3bt77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZNM7kXzAMlRktOJTXLcjobS_b-jpwFpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947473130835-0ligmcqqjel60sodh8rm3d4jk8g3bt77.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947473130835-5s525hlgi8v0bvrcm7fei6qfq7dqm07u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ho1yspirt.djalAuto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
